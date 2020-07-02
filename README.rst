@@ -1,6 +1,7 @@
-Python bindings to the Designate API
+Python bindings to the ConoHaDNS API (based on Designate API)
 =====================================
 
+Original is OpenStack DNS service client based on Designate API
 .. image:: https://img.shields.io/pypi/v/python-designateclient.svg
     :target: https://pypi.python.org/pypi/python-designateclient/
     :alt: Latest Version
@@ -31,3 +32,19 @@ See release notes and more at `<http://docs.openstack.org/developer/python-desig
 .. _Bugs: https://bugs.launchpad.net/python-designateclient
 .. _Source: https://git.openstack.org/cgit/openstack/python-designateclient
 .. _How to Contribute: http://docs.openstack.org/infra/manual/developers.html
+
+
+## python-conohaclient について
+
+### PyPIへの登録
+github上で一通り動くようになってから、登録しようと思います。
+
+なので、しばらく、Designateからのforkという形で開発します。
+
+PyPIについては、初めてなので、ちょっと手こずるかも。
+
+### update
+* 2020-07-02 リポジトリを "python-conohadnsclient" に renameしました。
+* githubの仕様で、しばらくは前の "python-designamteclient" のままでもアクセスできるみたい
+
+
