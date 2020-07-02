@@ -37,6 +37,7 @@ See release notes and more at `<http://docs.openstack.org/developer/python-desig
 ## python-conohaclient について
 
 ### PyPIへの登録
+
 github上で一通り動くようになってから、登録しようと思います。
 
 なので、しばらく、Designateからのforkという形で開発します。
@@ -44,7 +45,8 @@ github上で一通り動くようになってから、登録しようと思い�
 PyPIについては、初めてなので、ちょっと手こずるかも。
 
 ### update
-* 2020-07-02 リポジトリを "python-conohadnsclient" に renameしました。
-* githubの仕様で、しばらくは前の "python-designamteclient" のままでもアクセスできるみたい
+
+  * 2020-07-02 リポジトリを "python-conohadnsclient" に renameしました。
+  * githubの仕様で、しばらくは前の "python-designamteclient" のままでもアクセスできるみたい
 
 
