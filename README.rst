@@ -46,7 +46,25 @@ PyPIについては、初めてなので、ちょっと手こずるかも。
 
 ### update
 
-  * 2020-07-02 リポジトリを "python-conohadnsclient" に renameしました。
-  * githubの仕様で、しばらくは前の "python-designamteclient" のままでもアクセスできるみたい
+* 2020-07-02 リポジトリを "python-conohadnsclient" に renameしました。
+* githubの仕様で、しばらくは前の "python-designamteclient" のままでもアクセスできるみたい
+
+
+### docs
+
+markdownではなく、.rstと今更気がついたw
+
+
+### Issues / Projects
+
+Issuesはオリジナルのリポジトリじゃないと使えないのです。
+
+しばらくは、forkプロジェクトとして、こちらで作業します。
+
+  * その間は、カンバン方式で、"To do", "In progress", "Done" で管理
+  * PyPIへのリリース準備のときには、リポジトリを新設して、master branchでアクセスできるようにします
+  * リリース後には、そちらのIssuesを主体に対応、かなと。
+
+
 
 
